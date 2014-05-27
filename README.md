@@ -1,4 +1,6 @@
 cpp-graphics
 ============
 
-graphical stuff
+graphical stuff...
+
+not so much a project, but just a compilation of graphics related stuff for cpp.
